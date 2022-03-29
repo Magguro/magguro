@@ -1,8 +1,6 @@
 <h1 align="center">Hi there! 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-[Magguro's github activity graph](https://activity-graph.herokuapp.com/graph?username=magguro&theme=github)
-
-#(https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://activity-graph.herokuapp.com/graph?username=Ashutosh00710)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 
 

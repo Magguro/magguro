@@ -1,6 +1,6 @@
 <h1 align="center">Hi there! 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
-[![Magguro's github activity graph](https://activity-graph.herokuapp.com/graph?username=magguro&theme=github)](https://github.com/magguro/github-readme-activity-graph)
+[![Magguro's github activity graph](https://activity-graph.herokuapp.com/graph?username=magguro&theme=github)](https://github.com/magguro/README.md)
 
 
 

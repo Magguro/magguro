@@ -5,9 +5,6 @@
 
 
 <!--
-**Magguro/magguro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -18,4 +15,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+[![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Magguro&theme=github)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ![](https://komarev.com/ghpvc/?username=magguro)

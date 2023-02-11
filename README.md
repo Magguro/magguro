@@ -11,5 +11,7 @@
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-![Github activity graph](https://activity-graph.herokuapp.com/graph?username=Magguro&theme=github)
+
+[![Github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=magguro&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 ![](https://komarev.com/ghpvc/?username=magguro)
